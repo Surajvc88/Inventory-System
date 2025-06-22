@@ -1,0 +1,18 @@
+## 1. Console-Based Inventory System
+
+**Description:**  
+A basic Java console application to manage an inventory of products using `ArrayList`.
+
+**Technologies Used:**  
+- Java (JDK 8+)
+- Collections (ArrayList)
+- Loops, Classes, Scanner
+
+**Features:**  
+- Add product with name and quantity  
+- Remove product by name  
+- List all products
+
+**How to Run:**  
+- Compile and run using any IDE or `javac` command.
+- No external dependencies required.
